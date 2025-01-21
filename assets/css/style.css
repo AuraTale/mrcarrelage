@@ -1116,7 +1116,7 @@ html {
     top: 0;
     width: 465px;
     height: 100%;
-    background: var(--black-color) none repeat scroll 0 0;
+    background: #fff none repeat scroll 0 0;
     overflow-y: scroll;
     -ms-box-shadow: -5px 0 20px -5px rgba(0, 0, 0, 0.5);
     -o-box-shadow: -5px 0 20px -5px rgba(0, 0, 0, 0.5);
@@ -1147,6 +1147,8 @@ html {
 .sidebar__wrapper {
     position: relative;
     padding: 45px;
+    background-color: #fff;
+    background: #fff;
     /* background: var(--primary-color); */
 }
 
@@ -1181,7 +1183,7 @@ html {
 }
 
 .sidebar__close-btn:hover {
-    background: #000;
+    background: #777;
 }
 
 .sidebar__close-btn-3 {

@@ -5,14 +5,16 @@
   "scripts": {
     "build": "nuxt build && nuxt export",
     "dev": "nuxt dev",
+    "deploy": "gh-pages -d dist -b main",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@babel/types": "^7.26.5",
+    "animejs": "^3.2.2",
     "bootstrap": "^5.3.3",
-    "gsap": "^3.12.5",
+    "gsap": "^3.12.7",
     "install": "^0.13.0",
     "npm": "^11.0.0",
     "nuxt": "^3.15.1",
@@ -22,12 +24,17 @@
     "vue": "latest",
     "vue-countup-v3": "^1.4.2",
     "vue-easy-lightbox": "^1.19.0",
+    "vue-number-animation": "^2.0.2",
     "vue-router": "latest",
+    "vue3-animate-number": "^1.1.4",
     "wow.js": "^1.2.2"
   },
   "description": "Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.",
   "version": "1.0.0",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }

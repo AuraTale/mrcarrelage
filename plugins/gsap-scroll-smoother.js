@@ -1,5 +1,5 @@
  
-import ScrollSmoother from "~/assets/plugins/gsap-scroll-smoother";
+ import ScrollSmoother from "~/assets/plugins/gsap-scroll-smoother";
 
 export default defineNuxtPlugin(() => {
   return {

@@ -1,5 +1,6 @@
 
-<script setup> 
+<script setup>
+
 import { onMounted, ref } from 'vue';
 
 // gsap code here
@@ -25,10 +26,11 @@ onMounted(() => {
 
 
 
-import Header from "~/layouts/Header.vue";
-import Footer from "~/layouts/Footer.vue";
+import project_data from "~/data/project_data";
 
-import portfolio_data from "~/data/portfolio_data";
+import Header from "~/layouts/Header.vue";
+import Foote from "~/layouts/Footer.vue";
+import Breadcrumb from "~/components/common/Breadcrumb.vue";
 
 useHead({
   title: "MrCarrelage",
@@ -43,39 +45,32 @@ const image_popup = ref(null);
 function handleImagePopup(index) {
   image_popup.value.showImg(index);
 }
+
+ 
 </script>
 
 
 <template>
   <div>
     <Header />
-    <div id="smooth-wrapper">
-      <div id="smooth-content">
-        <main>
-          <HomeHeroArea />
-          <HomeBrandArea />
-          <HomeAboutArea />
-          <HomeNumberAnimationArea />
-          <HomeServiceArea />
-          <HomePortfolioArea
-            :portfolio_data="portfolio_data"
-            :handleImagePopup="handleImagePopup"
-          />
-          <HomeTestimonoalArea />
-          <HomeBlogArea />
-          <HomeContactArea />
-        </main>
-        <Footer />
+      <div id="smooth-wrapper">
+        <div id="smooth-content">
+          <main>
+            <Breadcrumb title="Branch with Flowers" :style_3="true" />
+            <SingleProjectArea :project_data="project_data" :handleImagePopup="handleImagePopup" />        
+          </main>
+          <Foote />
+        </div>
       </div>
-    </div>
 
-    <ImagePopup
+      <ImagePopup
       ref="image_popup"
-      :images="portfolio_data.map((item) => item.image)"
+      :images="project_data.map((item) => item.image)"
     />
-
     <CommonScrollToTop />
     <CommonCursorBall />
+
   </div>
 </template>
 
+ 

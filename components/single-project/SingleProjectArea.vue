@@ -68,7 +68,7 @@ const props = defineProps({
             style="cursor: pointer"
             @click.prevent="handleImagePopup(i)"
             class="work-popup"
-            href="/single"
+            href="/single-project1"
           >
             <div class="single-image wow fadeInUp delay-0-2s">
               <img :src="item.image" alt="gallery" />
