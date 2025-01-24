@@ -15,17 +15,18 @@
             <div class="col-lg-6">
               <div class="blog-post-img">
                 <a href="#">
-                  <img src="assets/images/blog/blog1.jpg" alt="" />
+                  <img src="assets/images/blog/blog/blog 1.webp" alt="" />
                 </a>
                 <div class="blog-post-category">
-                  <a href="#">Help</a>
+                  <a href="#">Blog</a>
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="blog-post-caption">
-                <h3>Posted on Aug 28</h3>
-                <h2><a class="link-decoration" href="#">Create a Landing Page That Performs Great</a></h2>
+                <h3></h3>
+                <h2><a class="link-decoration" href="#">Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison
+                </a></h2>
                 <a class="theme-btn theme-btn-two" href="/blog-details">Read more <i class="ri-arrow-right-line"></i></a>
               </div>
             </div>
@@ -36,18 +37,19 @@
             <div class="col-lg-6">
               <div class="blog-post-img">
                 <a href="#">
-                  <img src="assets/images/blog/blog2.jpg" alt="" />
+                  <img src="assets/images/blog/blog/blog 2.webp" alt="" />
                 </a>
                 <div class="blog-post-category">
-                  <a href="#">Branding</a>
+                  <a href="#">Blog</a>
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="blog-post-caption">
-                <h3>Posted on Aug 28</h3>
-                <h2><a class="link-decoration" href="#">Starting and Growing a Career in Web Design</a></h2>
-                <a class="theme-btn theme-btn-two" href="#">Read more <i class="ri-arrow-right-line"></i></a>
+                <h3></h3>
+                <h2><a class="link-decoration" href="#">Un look, trois budgets : Transformez votre espace sans vous ruiner
+                </a></h2>
+                <a class="theme-btn theme-btn-two" href="/blog-details1">Read more <i class="ri-arrow-right-line"></i></a>
               </div>
             </div>
           </div>
@@ -57,18 +59,19 @@
             <div class="col-lg-6">
               <div class="blog-post-img">
                 <a href="#">
-                  <img src="assets/images/blog/blog3.jpg" alt="" />
+                  <img src="assets/images/blog/blog/blog 3.webp" alt="" />
                 </a>
                 <div class="blog-post-category">
-                  <a href="#">Design</a>
+                  <a href="#">Blog</a>
                 </div>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="blog-post-caption">
-                <h3>Posted on Aug 28</h3>
-                <h2><a class="link-decoration" href="#">How Can Designers Prepare for the Future?</a></h2>
-                <a class="theme-btn theme-btn-two" href="#">Read more <i class="ri-arrow-right-line"></i></a>
+                <h3></h3>
+                <h2><a class="link-decoration" href="/blog-details2">Carrelage et tendances 2025 : Ce qu'il faut savoir pour être à la pointe
+                </a></h2>
+                <a class="theme-btn theme-btn-two" href="/blog-details2">Read more <i class="ri-arrow-right-line"></i></a>
               </div>
             </div>
           </div>

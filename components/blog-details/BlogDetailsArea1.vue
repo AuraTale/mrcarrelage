@@ -10,7 +10,7 @@
                       <div class="postbox__main-wrapper">
                         <div class="postbox__thumb w-img mb-30">
                           <a href="#">
-                            <img src="assets/images/blog/blog/blog 1.webp" alt="" />
+                            <img src="assets/images/blog/blog/blog 2.webp" alt="" />
                           </a>
                         </div>
                         <!-- <div class="postbox__meta">
@@ -25,20 +25,35 @@
                           </span>
                         </div> -->
                         <div class="postbox__details-content-wrapper">
-                          <h3 class="postbox__details-title">Le choix du carrelage peut transformer l’apparence et la fonctionnalité de votre maison. Cependant, de nombreuses personnes tombent dans des pièges courants qui peuvent entraîner des regrets à long terme. Dans cet article, découvrez les cinq erreurs à éviter pour faire un choix éclairé et durable.                          </h3>
+                          <h3 class="postbox__details-title">Le carrelage peut transformer un espace, mais beaucoup pensent qu'un beau design exige un budget élevé. Avec la bonne stratégie, vous pouvez obtenir un style époustouflant, quel que soit votre budget. Voici trois exemples concrets pour un look adapté à trois budgets différents.                          </h3>
                           <ol>
-                            <li>Erreur 1 : Choisir le mauvais type de carrelage pour chaque espaceTous les carrelages ne conviennent pas à toutes les pièces. Par exemple, un carrelage lisse et brillant peut être dangereux dans une salle de bain, tandis qu'un carrelage trop poreux peut absorber les taches dans la cuisine. Optez pour des carrelages techniques adaptés à chaque utilisation.</li>
-                            <li>Erreur 2 : Sous-estimer l’importance de la couleur et du formatLes couleurs claires peuvent agrandir visuellement une pièce, tandis que les teintes foncées apportent une touche d’élégance mais réduisent l’espace visuellement. Le format joue également un rôle crucial : les grands carreaux créent une continuité visuelle, parfait pour les petits espaces.
+                            <li>Budget économique : L’essentiel à prix doux
+                              <ul>
+                                <li>Carrelage choisi : Grès cérame basique en format standard (30x30 cm).</li>
+                                <li>Avantages : Durable, facile à poser, large choix de couleurs.</li>
+                                <li>Astuce d’économie : Combinez un carrelage neutre avec des touches colorées dans des zones stratégiques comme une frise ou un mur d’accent.</li>
+                              </ul>
                             </li>
-                            <li>Erreur 3 : Ne pas considérer l'entretienUn carrelage magnifique peut devenir un cauchemar s’il est difficile à entretenir. Renseignez-vous sur les produits de nettoyage adaptés et choisissez des surfaces faciles à entretenir si vous souhaitez gagner du temps.</li>
-                            <li>Erreur 4 : Ignorer les jointsLes joints jouent un rôle essentiel, tant sur le plan technique qu’esthétique. Choisir une mauvaise couleur ou une largeur inadaptée peut altérer le rendu final. Privilégiez des joints fins et de couleur harmonieuse avec votre carrelage.</li>
-                            <li>Erreur 5 : Ne pas prévoir de marge supplémentaireBeaucoup sous-estiment le nombre de carreaux nécessaires. Prévoyez toujours une marge supplémentaire (environ 10%) pour couvrir les coupes, les erreurs ou les remplacements futurs.</li>
+                            <li>Budget intermédiaire : Le parfait équilibre
+                              <ul>
+                                <li>Carrelage choisi : Effet bois ou ciment dans des formats variés (60x60 cm).</li>
+                                <li>Avantages : Une apparence chic et tendance sans un coût excessif.</li>
+                                <li>Astuce : Jouez avec les textures pour créer une ambiance chaleureuse et contemporaine.</li>
+                              </ul>
+                            </li>
+                            <li>Budget premium : Luxe et personnalisation
+                              <ul>
+                                <li>Carrelage choisi : Marbre véritable ou mosaïques haut de gamme.</li>
+                                <li>Avantages : Un élément distinctif qui fait toute la différence.</li>
+                                <li>Astuce : Intégrez des décors personnalisés pour un résultat unique.</li>
+                              </ul>
+                            </li>
                           </ol>
-                          <p>En évitant ces erreurs courantes, vous pouvez optimiser votre investissement et profiter d’un carrelage qui répond parfaitement à vos besoins. Pour encore plus de conseils, n’hésitez pas à nous contacter ou à visiter nos capsules vidéo sur le sujet.</p>
                           <div class="postbox__img m-img mt-50 mb-45">
-                            <img src="assets/images/blog/blog/blog 1.webp" alt="" />
+                            <img src="assets/images/blog/blog/blog 2.webp" alt="" />
                             <h5 class="postbox__img-caption">Image by <a href="#">@example01</a></h5>
                           </div>
+                          <p>Un beau carrelage est à portée de tous. En adaptant vos choix à votre budget, vous pouvez obtenir un espace élégant et fonctionnel. Pour plus d'idées, découvrez nos guides et rendez-vous en showroom.</p>
                           <div class="postbox__quote">
                             <blockquote>
                               <div class="postbox__quote-icon">
@@ -48,28 +63,41 @@
                                   </svg>
                                 </span>
                               </div>
-                              <p>“Le carrelage parfait, où style et durabilité se rencontrent”</p>
+                              <p>“Sublimez vos espaces avec un carrelage qui inspire l'élégance”</p>
                             </blockquote>
                           </div>
-                          <div class="postbox__features">                   
+                          <div class="postbox__features">
+                            <!-- <ul>
+                              <li>Get yourself comfortable.</li>
+                              <li>Manage your workspace and organize your desk.</li>
+                              <li>Keep In touch with your co-workers.</li>
+                            </ul> -->
                           </div>
+                          <!-- <p>The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.</p> -->
                         </div>
                         <div class="postbox__share-wrapper mb-60">
                           <div class="row align-items-center">
                             <div class="col-xl-7">
+                              <!-- <div class="tagcloud tagcloud-sm">
+                                <span>Tags:</span>
+                                <a href="#">Blog</a>
+                                <a href="#">Creative</a>
+                                <a href="#">Portfoilo</a>
+                                <a href="#">Harry</a>
+                              </div> -->
                             </div>
                             <div class="col-xl-5">
                               <div class="postbox__share text-xl-end">
                                 <span>Partager sur:</span>
-                                <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin-in"></i></a>
+                                <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
+                                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                               </div>
                             </div>
                           </div>
                         </div>
-                        <div class="postbox__comment-wrapper">
-                          <!-- <div class="postbox__comment mb-95">
+                        <!-- <div class="postbox__comment-wrapper">
+                          <div class="postbox__comment mb-95">
                             <h3 class="postbox__comment-title">Comments (2)</h3>
                             <ul>
                               <li>
@@ -132,8 +160,8 @@
                                 </div>
                               </li>
                             </ul>
-                          </div> -->
-                          <!-- <div class="postbox__comment-form">
+                          </div>
+                          <div class="postbox__comment-form">
                             <h3 class="postbox__comment-form-title">Leave A Reply</h3>
                             <p>Your email address will not be published. Required fields are marked *</p>
                             <form action="#">
@@ -171,8 +199,8 @@
                                 </div>
                               </div>
                             </form>
-                          </div> -->
-                        </div>
+                          </div>
+                        </div> -->
                       </div>
                     </div>
                       <!-- <div class="col-xxl-4 col-lg-4">

@@ -39,7 +39,7 @@ const props = defineProps({
           </p>
           
            
-          <p v-if="style_4">Stories, Advice, and Inspiration for the Curious Mind</p>
+          <p v-if="style_4">Trouvez le carrelage idéal pour sublimez vos intérieurs et extérieurs.</p>
            
         </div>
       </div>

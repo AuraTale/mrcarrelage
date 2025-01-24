@@ -46,8 +46,8 @@ useHead({
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
-            <Breadcrumb title="Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison" />
-            <BlogDetailsArea />     
+            <Breadcrumb title="Carrelage et tendances 2025 : Ce qu'il faut savoir pour être à la pointe" />
+            <BlogDetailsArea2 />     
           </main>
           <Foote />
         </div>

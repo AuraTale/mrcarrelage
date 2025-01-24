@@ -10,7 +10,7 @@
                       <div class="postbox__main-wrapper">
                         <div class="postbox__thumb w-img mb-30">
                           <a href="#">
-                            <img src="assets/images/blog/blog/blog 1.webp" alt="" />
+                            <img src="assets/images/blog/blog/blog 3.webp" alt="" />
                           </a>
                         </div>
                         <!-- <div class="postbox__meta">
@@ -25,20 +25,19 @@
                           </span>
                         </div> -->
                         <div class="postbox__details-content-wrapper">
-                          <h3 class="postbox__details-title">Le choix du carrelage peut transformer l’apparence et la fonctionnalité de votre maison. Cependant, de nombreuses personnes tombent dans des pièges courants qui peuvent entraîner des regrets à long terme. Dans cet article, découvrez les cinq erreurs à éviter pour faire un choix éclairé et durable.                          </h3>
-                          <ol>
-                            <li>Erreur 1 : Choisir le mauvais type de carrelage pour chaque espaceTous les carrelages ne conviennent pas à toutes les pièces. Par exemple, un carrelage lisse et brillant peut être dangereux dans une salle de bain, tandis qu'un carrelage trop poreux peut absorber les taches dans la cuisine. Optez pour des carrelages techniques adaptés à chaque utilisation.</li>
-                            <li>Erreur 2 : Sous-estimer l’importance de la couleur et du formatLes couleurs claires peuvent agrandir visuellement une pièce, tandis que les teintes foncées apportent une touche d’élégance mais réduisent l’espace visuellement. Le format joue également un rôle crucial : les grands carreaux créent une continuité visuelle, parfait pour les petits espaces.
-                            </li>
-                            <li>Erreur 3 : Ne pas considérer l'entretienUn carrelage magnifique peut devenir un cauchemar s’il est difficile à entretenir. Renseignez-vous sur les produits de nettoyage adaptés et choisissez des surfaces faciles à entretenir si vous souhaitez gagner du temps.</li>
-                            <li>Erreur 4 : Ignorer les jointsLes joints jouent un rôle essentiel, tant sur le plan technique qu’esthétique. Choisir une mauvaise couleur ou une largeur inadaptée peut altérer le rendu final. Privilégiez des joints fins et de couleur harmonieuse avec votre carrelage.</li>
-                            <li>Erreur 5 : Ne pas prévoir de marge supplémentaireBeaucoup sous-estiment le nombre de carreaux nécessaires. Prévoyez toujours une marge supplémentaire (environ 10%) pour couvrir les coupes, les erreurs ou les remplacements futurs.</li>
-                          </ol>
-                          <p>En évitant ces erreurs courantes, vous pouvez optimiser votre investissement et profiter d’un carrelage qui répond parfaitement à vos besoins. Pour encore plus de conseils, n’hésitez pas à nous contacter ou à visiter nos capsules vidéo sur le sujet.</p>
+                          <h3 class="postbox__details-title">Le monde du carrelage évolue constamment, avec des tendances qui reflètent les nouveaux modes de vie et les avancées technologiques. Découvrez ce que 2025 réserve pour rester à la pointe du design et de l’innovation.</h3>
+                         <ol>
+                          <li>Les grands formats continuent de dominerLes carreaux XXL (jusqu’à 120x240 cm) sont toujours à la mode, créant des espaces ouverts et minimalistes.</li>
+                          <li>Retour des couleurs audacieusesEn 2025, les tons comme le vert sauge, le terracotta, et le bleu profond sont incontournables pour apporter de la chaleur et de la personnalité.</li>
+                          <li>Le naturel au cœur des designsLes effets pierre, bois, et marbre restent très demandés, avec une finition de plus en plus réaliste grâce à la technologie d’impression digitale.</li>
+                          <li>L’écologie au premier planLes consommateurs recherchent des carrelages écologiques et recyclés. De plus en plus de fabricants s’engagent à réduire leur empreinte carbone.</li>
+                          <li>Les textures 3D prennent de l’ampleurPour créer des murs dynamiques, les carreaux en relief et à motifs géométriques gagnent en popularité.</li>
+                         </ol>
                           <div class="postbox__img m-img mt-50 mb-45">
-                            <img src="assets/images/blog/blog/blog 1.webp" alt="" />
+                            <img src="assets/images/blog/blog/blog 3.webp" alt="" />
                             <h5 class="postbox__img-caption">Image by <a href="#">@example01</a></h5>
                           </div>
+                          <p>Suivre les tendances vous permet de créer un espace moderne et intemporel. Pour explorer ces nouveautés et plus encore, visitez notre site ou contactez-nous pour des recommandations personnalisées.</p>
                           <div class="postbox__quote">
                             <blockquote>
                               <div class="postbox__quote-icon">
@@ -48,28 +47,43 @@
                                   </svg>
                                 </span>
                               </div>
-                              <p>“Le carrelage parfait, où style et durabilité se rencontrent”</p>
+                              <p>“Le carrelage, l'art de transformer chaque pièce en chef-d'oeuvre”</p>
                             </blockquote>
                           </div>
-                          <div class="postbox__features">                   
-                          </div>
+                          <!-- <div class="postbox__features">
+                            <h4 class="postbox__features-title">Learning from failure</h4>
+                            <p>The European languages are members of the same family. Their separate existence is a myth. For science europe uses the same vocabulary. </p>
+                            <ul>
+                              <li>Get yourself comfortable.</li>
+                              <li>Manage your workspace and organize your desk.</li>
+                              <li>Keep In touch with your co-workers.</li>
+                            </ul>
+                          </div> -->
+                          <!-- <p>The new common language will be more simple and regular than the existing European languages. It will be as simple as Occidental; in fact, it will be Occidental. To an English person, it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is. The European languages are members of the same family.</p> -->
                         </div>
                         <div class="postbox__share-wrapper mb-60">
                           <div class="row align-items-center">
                             <div class="col-xl-7">
+                              <!-- <div class="tagcloud tagcloud-sm">
+                                <span>Tags:</span>
+                                <a href="#">Blog</a>
+                                <a href="#">Creative</a>
+                                <a href="#">Portfoilo</a>
+                                <a href="#">Harry</a>
+                              </div> -->
                             </div>
                             <div class="col-xl-5">
                               <div class="postbox__share text-xl-end">
                                 <span>Partager sur:</span>
                                 <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
+                                <!-- <a href="#"><i class="fab fa-twitter"></i></a> -->
                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                               </div>
                             </div>
                           </div>
                         </div>
-                        <div class="postbox__comment-wrapper">
-                          <!-- <div class="postbox__comment mb-95">
+                        <!-- <div class="postbox__comment-wrapper">
+                          <div class="postbox__comment mb-95">
                             <h3 class="postbox__comment-title">Comments (2)</h3>
                             <ul>
                               <li>
@@ -132,8 +146,8 @@
                                 </div>
                               </li>
                             </ul>
-                          </div> -->
-                          <!-- <div class="postbox__comment-form">
+                          </div>
+                          <div class="postbox__comment-form">
                             <h3 class="postbox__comment-form-title">Leave A Reply</h3>
                             <p>Your email address will not be published. Required fields are marked *</p>
                             <form action="#">
@@ -171,8 +185,8 @@
                                 </div>
                               </div>
                             </form>
-                          </div> -->
-                        </div>
+                          </div>
+                        </div> -->
                       </div>
                     </div>
                       <!-- <div class="col-xxl-4 col-lg-4">

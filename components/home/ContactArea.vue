@@ -23,7 +23,7 @@ const handleSubmit = () => {
           <div class="row">
             <div class="col-xl-12 col-lg-12">
               <div class="section-title section-black-title wow fadeInUp delay-0-2s">
-                <h2>Contactez-Nous</h2>
+                <h2>Contactez-Moi</h2>
               </div>
             </div>
           </div>

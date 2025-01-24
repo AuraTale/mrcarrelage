@@ -29,7 +29,7 @@ import Foote from "~/layouts/Footer.vue";
 import Breadcrumb from "~/components/common/Breadcrumb.vue";
 
 useHead({
-  title: "About MrCarrelage",
+  title: "MrCarrelage",
 });
  
 </script>

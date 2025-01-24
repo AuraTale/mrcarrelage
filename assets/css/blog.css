@@ -311,7 +311,7 @@ p.postbox__meta-name {
   border-color: var(--tp-theme-1);
 }
 .postbox__details-social ul li {
-  list-style: none;
+  list-style: disc;
 }
 .postbox__details-social ul li a {
   display: inline-block;
@@ -370,7 +370,7 @@ p.postbox__meta-name {
   line-height: 2;
   color: var(--tp-common-black);
   position: relative;
-  list-style: none;
+  list-style: disc;
   padding-left: 15px;
 }
 [dir=rtl] .postbox__features ul li {
@@ -567,7 +567,7 @@ p.postbox__meta-name {
 }
 .postbox__comment ul li {
   margin-bottom: 20px;
-  list-style: none;
+  list-style: disc;
 }
 .postbox__comment ul.children {
   margin-top: 20px;
@@ -1221,7 +1221,7 @@ p.postbox__meta-name {
   text-transform: uppercase;
 }
 .sidebar__widget ul li {
-  list-style: none;
+  list-style: disc;
   font-family: var(--tp-ff-inter);
   font-weight: 500;
   font-size: 12px;

@@ -24,7 +24,7 @@
                 <div class="col-lg-3 pt-30">
                     <div class="hero-content wow fadeInUp delay-0-4s">
                         <p>Mr Carrelage vous guide pour choisir et installer les meilleurs carreaux adaptés à vos projets, avec conseils personnalisés et tendances actuelles.</p>
-                        <a class="theme-btn" href="/contact">Contactez-Nous</a>
+                        <a class="theme-btn" href="/contact">Contactez-Moi</a>
                     </div>
                     <!-- / END HERO DESIGN AREA -->
                 </div>

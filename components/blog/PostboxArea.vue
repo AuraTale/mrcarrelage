@@ -21,33 +21,96 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                 <article class="postbox__item format-image mb-50 transition-3">
                   <div class="postbox__thumb w-img">
                     <NuxtLink to="/blog-details">
-                      <img src="assets/images/blog/blog1.jpg" alt="" />
+                      <img src="assets/images/blog/blog/blog 1.webp" alt="" />
                     </NuxtLink>
                   </div>
                   <div class="postbox__content">
                     <div class="postbox__meta">
                       <span>
-                        <a href=""><i class="fa-light fa-user"></i>Tanvir Hossain</a>
+                        <!-- <a href=""><i class="fa-light fa-user"></i>Tanvir Hossain</a> -->
                       </span>
                       <span>
-                        <a href=""><i class="fa-light fa-clock"></i>January 22, 2022</a>
+                        <!-- <a href=""><i class="fa-light fa-clock"></i>January 22, 2022</a> -->
                       </span>
                       <span>
-                        <a href=""><i class="fa-sharp fa-thin fa-comments"></i>35</a>
+                        <!-- <a href=""><i class="fa-sharp fa-thin fa-comments"></i>35</a> -->
                       </span>
                     </div>
                     <h3 class="postbox__title">
-                      <NuxtLink to="/blog-details">Create a Landing Page That Performs Great</NuxtLink>
+                      <NuxtLink to="/blog-details">Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison</NuxtLink>
                     </h3>
                     <div class="postbox__text">
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat […]</p>
+                      <p>Le choix du carrelage peut transformer l’apparence et la fonctionnalité de votre maison. Cependant, de nombreuses personnes tombent dans des pièges courants qui peuvent entraîner des regrets à long terme. Dans cet article, découvrez les cinq erreurs à éviter pour faire un choix éclairé et durable.[…]</p>
                     </div>
                     <div class="postbox__read-more">
                       <NuxtLink to="/blog-details" class="theme-btn">Read more</NuxtLink>
                     </div>
                   </div>
                 </article>
-                <article class="postbox__item format-video mb-50 transition-3">
+                <article class="postbox__item format-image mb-50 transition-3">
+                  <div class="postbox__thumb w-img">
+                    <NuxtLink to="/blog-details">
+                      <img src="assets/images/blog/blog/blog 2.webp" alt="" />
+                    </NuxtLink>
+                  </div>
+                  <div class="postbox__content">
+                    <div class="postbox__meta">
+                      <span>
+                        <!-- <a href=""><i class="fa-light fa-user"></i>Tanvir Hossain</a> -->
+                      </span>
+                      <span>
+                        <!-- <a href=""><i class="fa-light fa-clock"></i>January 22, 2022</a> -->
+                      </span>
+                      <span>
+                        <!-- <a href=""><i class="fa-sharp fa-thin fa-comments"></i>35</a> -->
+                      </span>
+                    </div>
+                    <h3 class="postbox__title">
+                      <NuxtLink to="/blog-details1">Un look, trois budgets : Transformez votre espace sans vous ruiner</NuxtLink>
+                    </h3>
+                    <div class="postbox__text">
+                      <p>Le carrelage peut transformer un espace, mais beaucoup pensent qu'un beau design exige un budget élevé. Avec la bonne stratégie, vous pouvez obtenir un style époustouflant, quel que soit votre budget. Voici trois exemples concrets pour un look adapté à trois budgets différents.[…]</p>
+                    </div>
+                    <div class="postbox__read-more">
+                      <NuxtLink to="/blog-details1" class="theme-btn">Read more</NuxtLink>
+                    </div>
+                  </div>
+                </article>
+                <article class="postbox__item format-image mb-50 transition-3">
+                  <div class="postbox__thumb w-img">
+                    <NuxtLink to="/blog-details">
+                      <img src="assets/images/blog/blog/blog 3.webp" alt="" />
+                    </NuxtLink>
+                  </div>
+                  <div class="postbox__content">
+                    <div class="postbox__meta">
+                      <span>
+                        <!-- <a href=""><i class="fa-light fa-user"></i>Tanvir Hossain</a> -->
+                      </span>
+                      <span>
+                        <!-- <a href=""><i class="fa-light fa-clock"></i>January 22, 2022</a> -->
+                      </span>
+                      <span>
+                        <!-- <a href=""><i class="fa-sharp fa-thin fa-comments"></i>35</a> -->
+                      </span>
+                    </div>
+                    <h3 class="postbox__title">
+                      <NuxtLink to="/blog-details2">Carrelage et tendances 2025 : Ce qu'il faut savoir pour être à la pointe</NuxtLink>
+                    </h3>
+                    <div class="postbox__text">
+                      <p>Le monde du carrelage évolue constamment, avec des tendances qui reflètent les nouveaux modes de vie et les avancées technologiques. Découvrez ce que 2025 réserve pour rester à la pointe du design et de l’innovation.[…]</p>
+                    </div>
+                    <div class="postbox__read-more">
+                      <NuxtLink to="/blog-details2" class="theme-btn">Read more</NuxtLink>
+                    </div>
+                  </div>
+                </article>
+
+
+                <!-- this is the part that contains the video player -->
+
+
+                <!-- <article class="postbox__item format-video mb-50 transition-3">
                   <div class="postbox__thumb postbox__video w-img p-relative">
                     <NuxtLink to="/blog-details">
                       <img src="assets/images/blog/blog2.jpg" alt="" />
@@ -76,8 +139,11 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       <NuxtLink to="/blog-details" class="theme-btn">Read more</NuxtLink>
                     </div>
                   </div>
-                </article>
-                <article class="postbox__item format-audio mb-50 transition-3">
+                </article> -->
+
+                <!-- this part contains the audio player -->
+
+                <!-- <article class="postbox__item format-audio mb-50 transition-3">
                   <div class="postbox__thumb postbox__audio w-img p-relative">
                     <iframe allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/316547873&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
                   </div>
@@ -103,8 +169,11 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       <NuxtLink to="/blog-details" class="theme-btn">Read more</NuxtLink>
                     </div>
                   </div>
-                </article>
-                <article class="postbox__item format-image mb-50 transition-3">
+                </article> -->
+
+                <!-- this part contains the pics slider -->
+
+                <!-- <article class="postbox__item format-image mb-50 transition-3">
                   <Swiper   
 
                   :slides-per-view="1"
@@ -155,7 +224,7 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       <NuxtLink to="/blog-details" class="theme-btn">Read more</NuxtLink>
                     </div>
                   </div>
-                </article>
+                </article> -->
 
                 <!-- <div class="tp-pagination mt-20">
                   <nav>
@@ -195,7 +264,7 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
             </div>
             <div class="col-xxl-4 col-lg-4">
               <div class="blog_sidebar__wrapper pl-40">
-                <div class="sidebar__widget mb-20">
+                <!-- <div class="sidebar__widget mb-20">
                   <div class="sidebar__widget-content">
                     <div class="sidebar__search">
                       <form action="#">
@@ -211,8 +280,8 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       </form>
                     </div>
                   </div>
-                </div>
-                <div class="sidebar__widget mb-45">
+                </div> -->
+                <!-- <div class="sidebar__widget mb-45">
                   <div class="sidebar__widget-content">
                     <div class="sidebar__author">
                       <div class="sidebar__author-thumb">
@@ -229,8 +298,8 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="sidebar__widget mb-45">
+                </div> -->
+                <!-- <div class="sidebar__widget mb-45">
                   <h3 class="sidebar__widget-title">Recent Post</h3>
                   <div class="sidebar__widget-content">
                     <div class="sidebar__post">
@@ -290,8 +359,8 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       </div>
                     </div>
                   </div>
-                </div>
-                <div class="sidebar__widget mb-45">
+                </div> -->
+                <!-- <div class="sidebar__widget mb-45">
                   <h3 class="sidebar__widget-title">Category</h3>
                   <div class="sidebar__widget-content">
                     <ul>
@@ -302,8 +371,8 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       <li><NuxtLink to="/blog">Framer Website <span>103</span></NuxtLink></li>
                     </ul>
                   </div>
-                </div>
-                <div class="sidebar__widget mb-40">
+                </div> -->
+                <!-- <div class="sidebar__widget mb-40">
                   <h3 class="sidebar__widget-title">Tags</h3>
                   <div class="sidebar__widget-content">
                     <div class="tagcloud">
@@ -315,7 +384,7 @@ const videoUrl = 'https://www.youtube.com/embed/GcMiYI1gWD4?si=Fj5qd8xfgXyl1v8J'
                       <a href="#">Figma</a>
                     </div>
                   </div>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>

@@ -3,19 +3,19 @@
     <!-- Number 1 -->
     <div class="number-item">
       <span ref="number1">{{ value1 }} +</span>
-      <p>ALL WORKS</p>
+      <p>Years Of Experience</p>
     </div>
     
     <!-- Number 2 -->
     <div class="number-item">
       <span ref="number2">{{ value2 }}</span>
-      <p>ENGINEERS</p>
+      <p>Complete Projects</p>
     </div>
 
     <!-- Number 3 -->
     <div class="number-item">
-      <span ref="number3">{{ value3 }}</span>
-      <p>CUSTOMERS</p>
+      <span ref="number3">{{ value3 }} +</span>
+      <p>Satisfied Clients</p>
     </div>
 
     <!-- Number 4 -->
@@ -33,10 +33,10 @@ export default {
   data() {
     return {
       // Initial values for the numbers
-      value1: 1000,
-      value2: 5000,
-      value3: 2500,
-      value4: 7500,
+      value1: 8,
+      value2: 58,
+      value3: 90,
+      value4: 20,
     };
   },
   mounted() {
@@ -74,7 +74,7 @@ export default {
         targets: element,
         innerHTML: [0, value],  // Animate from 0 to the final value
         easing: 'easeInOutQuad', // Easing function
-        duration: 2000,          // Animation duration in milliseconds
+        duration: 4000,          // Animation duration in milliseconds
         round: 1,                // Round to nearest integer
       });
     },

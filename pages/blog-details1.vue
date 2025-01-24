@@ -46,8 +46,8 @@ useHead({
       <div id="smooth-wrapper">
         <div id="smooth-content">
           <main>
-            <Breadcrumb title="Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison" />
-            <BlogDetailsArea />     
+            <Breadcrumb title="Un look, trois budgets : Transformez votre espace sans vous ruiner" />
+            <BlogDetailsArea1 />     
           </main>
           <Foote />
         </div>
