@@ -30,7 +30,7 @@
                          <ol>
                           <li style="color: white;">- Les grands formats continuent de dominerLes carreaux XXL (jusqu’à 120x240 cm) sont toujours à la mode, créant des espaces ouverts et minimalistes.</li>
                           <li style="color: white;">- Retour des couleurs audacieusesEn 2025, les tons comme le vert sauge, le terracotta, et le bleu profond sont incontournables pour apporter de la chaleur et de la personnalité.</li>
-                          <li style="color: white;">- Le naturel au cœur des designsLes effets pierre, bois, et marbre restent très demandés, avec une finition de plus en plus réaliste grâce à la technologie d’impression digitale.</li>
+                          <li style="color: green;">- Le naturel au cœur des designsLes effets pierre, bois, et marbre restent très demandés, avec une finition de plus en plus réaliste grâce à la technologie d’impression digitale.</li>
                           <li style="color: white;">- L’écologie au premier planLes consommateurs recherchent des carrelages écologiques et recyclés. De plus en plus de fabricants s’engagent à réduire leur empreinte carbone.</li>
                           <li style="color: white;">- Les textures 3D prennent de l’ampleurPour créer des murs dynamiques, les carreaux en relief et à motifs géométriques gagnent en popularité.</li>
                          </ol>
