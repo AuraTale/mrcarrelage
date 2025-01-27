@@ -25,14 +25,19 @@
                           </span>
                         </div> -->
                         <div class="postbox__details-content-wrapper">
-                          <h3 class="postbox__details-title">Le choix du carrelage peut transformer l’apparence et la fonctionnalité de votre maison. Cependant, de nombreuses personnes tombent dans des pièges courants qui peuvent entraîner des regrets à long terme. Dans cet article, découvrez les cinq erreurs à éviter pour faire un choix éclairé et durable.                          </h3>
+                          
+                          <p>Le choix du carrelage peut transformer l’apparence et la fonctionnalité de votre maison. Cependant, de nombreuses personnes tombent dans des pièges courants qui peuvent entraîner des regrets à long terme. Dans cet article, découvrez les cinq erreurs à éviter pour faire un choix éclairé et durable.</p>
                           <ol>
-                            <li>Erreur 1 : Choisir le mauvais type de carrelage pour chaque espaceTous les carrelages ne conviennent pas à toutes les pièces. Par exemple, un carrelage lisse et brillant peut être dangereux dans une salle de bain, tandis qu'un carrelage trop poreux peut absorber les taches dans la cuisine. Optez pour des carrelages techniques adaptés à chaque utilisation.</li>
-                            <li>Erreur 2 : Sous-estimer l’importance de la couleur et du formatLes couleurs claires peuvent agrandir visuellement une pièce, tandis que les teintes foncées apportent une touche d’élégance mais réduisent l’espace visuellement. Le format joue également un rôle crucial : les grands carreaux créent une continuité visuelle, parfait pour les petits espaces.
-                            </li>
-                            <li>Erreur 3 : Ne pas considérer l'entretienUn carrelage magnifique peut devenir un cauchemar s’il est difficile à entretenir. Renseignez-vous sur les produits de nettoyage adaptés et choisissez des surfaces faciles à entretenir si vous souhaitez gagner du temps.</li>
-                            <li>Erreur 4 : Ignorer les jointsLes joints jouent un rôle essentiel, tant sur le plan technique qu’esthétique. Choisir une mauvaise couleur ou une largeur inadaptée peut altérer le rendu final. Privilégiez des joints fins et de couleur harmonieuse avec votre carrelage.</li>
-                            <li>Erreur 5 : Ne pas prévoir de marge supplémentaireBeaucoup sous-estiment le nombre de carreaux nécessaires. Prévoyez toujours une marge supplémentaire (environ 10%) pour couvrir les coupes, les erreurs ou les remplacements futurs.</li>
+                            <h3 class="postbox__details-title">Erreur 1 :</h3>
+                            <p style="color: white;"> Choisir le mauvais type de carrelage pour chaque espaceTous les carrelages ne conviennent pas à toutes les pièces. Par exemple, un carrelage lisse et brillant peut être dangereux dans une salle de bain, tandis qu'un carrelage trop poreux peut absorber les taches dans la cuisine. Optez pour des carrelages techniques adaptés à chaque utilisation.</p>
+                           <br> <h3 class="postbox__details-title">Erreur 2 :</h3>
+                            <p style="color: white;">Sous-estimer l’importance de la couleur et du formatLes couleurs claires peuvent agrandir visuellement une pièce, tandis que les teintes foncées apportent une touche d’élégance mais réduisent l’espace visuellement. Le format joue également un rôle crucial : les grands carreaux créent une continuité visuelle, parfait pour les petits espaces.</p>
+                           <br> <h3 class="postbox__details-title">Erreur 3 :</h3>
+                            <p style="color: white;">Ne pas considérer l'entretienUn carrelage magnifique peut devenir un cauchemar s’il est difficile à entretenir. Renseignez-vous sur les produits de nettoyage adaptés et choisissez des surfaces faciles à entretenir si vous souhaitez gagner du temps.</p>
+                           <br> <h3 class="postbox__details-title">Erreur 4 :</h3>
+                            <p style="color: white;">Ignorer les jointsLes joints jouent un rôle essentiel, tant sur le plan technique qu’esthétique. Choisir une mauvaise couleur ou une largeur inadaptée peut altérer le rendu final. Privilégiez des joints fins et de couleur harmonieuse avec votre carrelage.</p>
+                            <br><h3 class="postbox__details-title">Erreur 5 :</h3>
+                            <p style="color: white;">Ne pas prévoir de marge supplémentaireBeaucoup sous-estiment le nombre de carreaux nécessaires. Prévoyez toujours une marge supplémentaire (environ 10%) pour couvrir les coupes, les erreurs ou les remplacements futurs.</p>
                           </ol>
                           <p>En évitant ces erreurs courantes, vous pouvez optimiser votre investissement et profiter d’un carrelage qui répond parfaitement à vos besoins. Pour encore plus de conseils, n’hésitez pas à nous contacter ou à visiter nos capsules vidéo sur le sujet.</p>
                           <div class="postbox__img m-img mt-50 mb-45">

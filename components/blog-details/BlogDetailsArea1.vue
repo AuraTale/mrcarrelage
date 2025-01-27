@@ -25,29 +25,27 @@
                           </span>
                         </div> -->
                         <div class="postbox__details-content-wrapper">
-                          <h3 class="postbox__details-title">Le carrelage peut transformer un espace, mais beaucoup pensent qu'un beau design exige un budget élevé. Avec la bonne stratégie, vous pouvez obtenir un style époustouflant, quel que soit votre budget. Voici trois exemples concrets pour un look adapté à trois budgets différents.                          </h3>
+                          <h3 class="postbox__details-title"></h3>
+                          <p>Le carrelage peut transformer un espace, mais beaucoup pensent qu'un beau design exige un budget élevé. Avec la bonne stratégie, vous pouvez obtenir un style époustouflant, quel que soit votre budget. Voici trois exemples concrets pour un look adapté à trois budgets différents.</p>
                           <ol>
-                            <li>Budget économique : L’essentiel à prix doux
-                              <ul>
-                                <li>Carrelage choisi : Grès cérame basique en format standard (30x30 cm).</li>
-                                <li>Avantages : Durable, facile à poser, large choix de couleurs.</li>
-                                <li>Astuce d’économie : Combinez un carrelage neutre avec des touches colorées dans des zones stratégiques comme une frise ou un mur d’accent.</li>
+                            <h3 class="postbox__details-title">Budget économique : L’essentiel à prix doux</h3>
+                            <ul >
+                                <li style="color: white;">- Carrelage choisi : Grès cérame basique en format standard (30x30 cm).</li>
+                                <li style="color: white;">- Avantages : Durable, facile à poser, large choix de couleurs.</li>
+                                <li style="color: white;">- Astuce d’économie : Combinez un carrelage neutre avec des touches colorées dans des zones stratégiques comme une frise ou un mur d’accent.</li>
+                              <br></ul>
+                            <h3 class="postbox__details-title">Budget intermédiaire : Le parfait équilibre</h3>
+                            <ul>
+                                <li style="color: white;">- Carrelage choisi : Effet bois ou ciment dans des formats variés (60x60 cm).</li>
+                                <li style="color: white;">- Avantages : Une apparence chic et tendance sans un coût excessif.</li>
+                                <li style="color: white;">- Astuce : Jouez avec les textures pour créer une ambiance chaleureuse et contemporaine.</li>
+                             <br> </ul>
+                            <h3 class="postbox__details-title">Budget premium : Luxe et personnalisation</h3>
+                            <ul>
+                                <li style="color: white;">- Carrelage choisi : Marbre véritable ou mosaïques haut de gamme.</li>
+                                <li style="color: white;">- Avantages : Un élément distinctif qui fait toute la différence.</li>
+                                <li style="color: white;">- Astuce : Intégrez des décors personnalisés pour un résultat unique.</li>
                               </ul>
-                            </li>
-                            <li>Budget intermédiaire : Le parfait équilibre
-                              <ul>
-                                <li>Carrelage choisi : Effet bois ou ciment dans des formats variés (60x60 cm).</li>
-                                <li>Avantages : Une apparence chic et tendance sans un coût excessif.</li>
-                                <li>Astuce : Jouez avec les textures pour créer une ambiance chaleureuse et contemporaine.</li>
-                              </ul>
-                            </li>
-                            <li>Budget premium : Luxe et personnalisation
-                              <ul>
-                                <li>Carrelage choisi : Marbre véritable ou mosaïques haut de gamme.</li>
-                                <li>Avantages : Un élément distinctif qui fait toute la différence.</li>
-                                <li>Astuce : Intégrez des décors personnalisés pour un résultat unique.</li>
-                              </ul>
-                            </li>
                           </ol>
                           <div class="postbox__img m-img mt-50 mb-45">
                             <img src="assets/images/blog/blog/blog 2.webp" alt="" />

@@ -25,7 +25,7 @@
             <div class="col-lg-6">
               <div class="blog-post-caption">
                 <h3></h3>
-                <h2><a class="link-decoration" href="#">Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison
+                <h2><a class="link-decoration" href="/blog-details">Les 5 erreurs à éviter lors de l'achat de carrelage pour votre maison
                 </a></h2>
                 <a class="theme-btn theme-btn-two" href="/blog-details">Read more <i class="ri-arrow-right-line"></i></a>
               </div>
@@ -47,7 +47,7 @@
             <div class="col-lg-6">
               <div class="blog-post-caption">
                 <h3></h3>
-                <h2><a class="link-decoration" href="#">Un look, trois budgets : Transformez votre espace sans vous ruiner
+                <h2><a class="link-decoration" href="/blog-details1">Un look, trois budgets : Transformez votre espace sans vous ruiner
                 </a></h2>
                 <a class="theme-btn theme-btn-two" href="/blog-details1">Read more <i class="ri-arrow-right-line"></i></a>
               </div>
